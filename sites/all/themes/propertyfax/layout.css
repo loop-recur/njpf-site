@@ -157,8 +157,8 @@ light blue: #a4dff9;
 
 @font-face {
 	font-family: 'GothamHTF-Book';
-	src: url('../css/fonts/GothamHTF-Book.eot');    
-	src: local('GothamHTF-Book'), url('../css/fonts/GothamHTF-Book.ttf') format("truetype");
+	src: url('fonts/GothamHTF-Book.eot');    
+	src: local('GothamHTF-Book'), url('fonts/GothamHTF-Book.ttf') format("truetype");
 }
 
 h2{
